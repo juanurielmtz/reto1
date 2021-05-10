@@ -13,3 +13,4 @@ _es el gasto inicial de dinero en infraestructura física y luego se deduce ese 
 _es gastar dinero en servicios o productos ahora y se factura por ellos ahora. Puede deducir este gasto en el mismo año en que lo gasta. No hay ningún costo inicial, ya que paga por un servicio o producto a medida que lo usa_ 
 ## 🐱
 ☁️
+![image](https://user-images.githubusercontent.com/83740900/117604032-0371fc80-b11a-11eb-98ce-a243bf09da9c.png)
