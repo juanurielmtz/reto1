@@ -1,15 +1,15 @@
 # RETO MASTER | SEMANA 1
-#### *Alejandro Balderas Villalobos
+#### - Alejandro Balderas Villalobos
 #### - Ashley Salas Rodríguez
 #### - Juan Uriel Martínez Moreno
 #### - María Crista Rodríguez Martínez
 ![image](https://user-images.githubusercontent.com/83737142/117602567-a0cb3180-b116-11eb-9411-4641e997f4df.png)
 # ¿Cuáles son algunas de las ventajas de la informática en la nube?
 ## Los entornos en la nube ofrecen varias ventajas en comparación con los entornos físicos.
-## -Alta disponibilidad:
-## -Escalabilidad:
-## -Elasticidad:
-## -Agilidad:
+## - Alta disponibilidad:
+## - Escalabilidad:
+## - Elasticidad:
+## - Agilidad:
 # Conceptos básicos de Azure ☁️
 ![image](https://user-images.githubusercontent.com/83740900/117602767-1e8f3d00-b117-11eb-94b2-c8caa254ac89.png)
 
@@ -26,8 +26,6 @@ _Proporcionan una plataforma donde pueden crear aplicaciones y acceder a ellas a
 ## Las SaaS 
 _Permite a los usuarios conectarse a aplicaciones basadas en la nube a través de Internet y usarlas. Algunos ejemplos comunes son el correo electrónico, los calendarios y las herramientas ofimáticas como Microsoft Office_
 
-![image](https://user-images.githubusercontent.com/83740900/117605177-c0655880-b11c-11eb-9373-38b4a0e4253f.png)
 
-##  ¿Qué son las nubes públicas, privadas e híbridas?
-_Hay tres modelos de implementación para la computación en la nube:_
-#  Nube pública:  _Los servicios se ofrecen a través de la Internet pública y están disponibles para cualquier persona que desee adquirirlos. _
+![image](https://user-images.githubusercontent.com/83740900/117604740-c9a1f580-b11b-11eb-9d2a-fd5a317878e1.png)
+
