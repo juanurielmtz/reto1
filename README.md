@@ -8,10 +8,11 @@
 ![image](https://user-images.githubusercontent.com/83740900/117602767-1e8f3d00-b117-11eb-94b2-c8caa254ac89.png)
 # Descripción de las ventajas de la informática en la nube
 # *¿Cuáles son algunas de las ventajas de la informática en la nube?*
-## - Alta disponibilidad: en función del contrato de nivel de servicio (SLA) que elija, las aplicaciones basadas en la nube pueden proporcionar una experiencia de usuario continua sin tiempo de inactividad perceptible, aunque se produzcan errores.
-## - Escalabilidad: las aplicaciones en la nube se pueden escalar verticalmente y horizontalmente:
-###  - Escale verticalmente para aumentar la capacidad de proceso mediante la incorporación de RAM o CPU adicionales a una máquina virtual.
-###  - El escalado horizontal aumenta la capacidad de proceso mediante la adición de instancias de recursos, como la incorporación de máquinas virtuales a la configuración.
+## Alta disponibilidad: en función del contrato de nivel de servicio (SLA) que elija, las aplicaciones basadas en la nube pueden proporcionar una experiencia de usuario continua sin tiempo de inactividad perceptible, aunque se produzcan errores.
+
+## Escalabilidad: las aplicaciones en la nube se pueden escalar verticalmente y horizontalmente:
+###    - Escale verticalmente para aumentar la capacidad de proceso mediante la incorporación de RAM o CPU adicionales a una máquina virtual.
+###    - El escalado horizontal aumenta la capacidad de proceso mediante la adición de instancias de recursos, como la incorporación de máquinas virtuales a la configuración.
 
 ## Elasticidad: puede configurar aplicaciones basadas en la nube para aprovechar el escalado automático, de forma que las aplicaciones siempre dispondrán de los recursos que necesitan.
 
