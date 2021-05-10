@@ -28,3 +28,6 @@ _Permite a los usuarios conectarse a aplicaciones basadas en la nube a través d
 
 ![image](https://user-images.githubusercontent.com/83740900/117605177-c0655880-b11c-11eb-9373-38b4a0e4253f.png)
 
+##  ¿Qué son las nubes públicas, privadas e híbridas?
+_Hay tres modelos de implementación para la computación en la nube:_
+#  Nube pública:  _Los servicios se ofrecen a través de la Internet pública y están disponibles para cualquier persona que desee adquirirlos. _
