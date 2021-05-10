@@ -1,5 +1,5 @@
 # RETO MASTER | SEMANA 1
-#### * Alejandro Balderas Villalobos
+#### - Alejandro Balderas Villalobos
 #### - Ashley Salas Rodríguez
 #### - Juan Uriel Martínez Moreno
 #### - María Crista Rodríguez Martínez
@@ -24,3 +24,5 @@ _Abarcan todo el hardware virtualizado, es decir, el espacio en servidores virtu
 _Proporcionan una plataforma donde pueden crear aplicaciones y acceder a ellas a través de la red. Estos servicios pueden consistir en un sencillo entorno o desarrollos avanzados según necesite el cliente_
 ## Las SaaS 
 _Permite a los usuarios conectarse a aplicaciones basadas en la nube a través de Internet y usarlas. Algunos ejemplos comunes son el correo electrónico, los calendarios y las herramientas ofimáticas como Microsoft Office_
+![image](https://user-images.githubusercontent.com/83740900/117604740-c9a1f580-b11b-11eb-9d2a-fd5a317878e1.png)
+
