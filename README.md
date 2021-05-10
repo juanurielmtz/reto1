@@ -1,5 +1,5 @@
 # RETO MASTER | SEMANA 1
-#### ␣␣␣␣␣-␣Alejandro Balderas Villalobos
+#### *Alejandro Balderas Villalobos
 #### - Ashley Salas Rodríguez
 #### - Juan Uriel Martínez Moreno
 #### - María Crista Rodríguez Martínez
