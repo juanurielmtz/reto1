@@ -18,3 +18,9 @@ _abarcan todo el hardware virtualizado, es decir, el espacio en servidores virtu
 _Proporcionan una plataforma donde pueden crear aplicaciones y acceder a ellas a través de la red. Estos servicios pueden consistir en un sencillo entorno o desarrollos avanzados según necesite el cliente_
 ## Las SaaS 
 _Permite a los usuarios conectarse a aplicaciones basadas en la nube a través de Internet y usarlas. Algunos ejemplos comunes son el correo electrónico, los calendarios y las herramientas ofimáticas como Microsoft Office_
+
+
+
+
+
+####![image](https://user-images.githubusercontent.com/83740900/117604222-6ebbce80-b11a-11eb-80e5-cab17780c059.png)
