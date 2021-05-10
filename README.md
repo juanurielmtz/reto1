@@ -19,7 +19,7 @@ _es el gasto inicial de dinero en infraestructura física y luego se deduce ese 
 _es gastar dinero en servicios o productos ahora y se factura por ellos ahora. Puede deducir este gasto en el mismo año en que lo gasta. No hay ningún costo inicial, ya que paga por un servicio o producto a medida que lo usa_ 
 ## 🐱
 ## Las IaaS 💻
-_abarcan todo el hardware virtualizado, es decir, el espacio en servidores virtuales, las redes, almacenamiento, etc._
+_Abarcan todo el hardware virtualizado, es decir, el espacio en servidores virtuales, las redes, almacenamiento, etc._
 ## Las PaaS 🖱️
 _Proporcionan una plataforma donde pueden crear aplicaciones y acceder a ellas a través de la red. Estos servicios pueden consistir en un sencillo entorno o desarrollos avanzados según necesite el cliente_
 ## Las SaaS 
