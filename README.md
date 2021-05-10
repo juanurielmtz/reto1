@@ -1,8 +1,8 @@
 # RETO MASTER | SEMANA 1
-#### Alejandro Balderas Villalobos
-#### Ashley Salas Rodríguez
-#### Juan Uriel Martínez Moreno
-#### María Crista Rodríguez Martínez
+####- Alejandro Balderas Villalobos
+####- Ashley Salas Rodríguez
+####- Juan Uriel Martínez Moreno
+####- María Crista Rodríguez Martínez
 ![image](https://user-images.githubusercontent.com/83737142/117602567-a0cb3180-b116-11eb-9411-4641e997f4df.png)
 # ¿Cuáles son algunas de las ventajas de la informática en la nube?
 ## Los entornos en la nube ofrecen varias ventajas en comparación con los entornos físicos.
