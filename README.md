@@ -8,7 +8,10 @@ _es el gasto inicial de dinero en infraestructura física y luego se deduce ese 
 _es gastar dinero en servicios o productos ahora y se factura por ellos ahora. Puede deducir este gasto en el mismo año en que lo gasta. No hay ningún costo inicial, ya que paga por un servicio o producto a medida que lo usa_ 
 ## 🐱
 ☁️
-## Las IaaS: abarcan todo el hardware virtualizado, es decir, el espacio en servidores virtuales, las redes, almacenamiento, etc.
-## Las PaaS: proporcionan una plataforma donde pueden crear aplicaciones y acceder a ellas a través de la red. Estos servicios pueden consistir en un sencillo entorno o desarrollos avanzados según necesite el cliente.
-## Las SaaS: permite a los usuarios conectarse a aplicaciones basadas en la nube a través de Internet y usarlas. Algunos ejemplos comunes son el correo electrónico, los calendarios y las herramientas ofimáticas como Microsoft Office
+## Las IaaS
+_abarcan todo el hardware virtualizado, es decir, el espacio en servidores virtuales, las redes, almacenamiento, etc._
+## Las PaaS 
+_proporcionan una plataforma donde pueden crear aplicaciones y acceder a ellas a través de la red. Estos servicios pueden consistir en un sencillo entorno o desarrollos avanzados según necesite el cliente._
+## Las SaaS 
+_permite a los usuarios conectarse a aplicaciones basadas en la nube a través de Internet y usarlas. Algunos ejemplos comunes son el correo electrónico, los calendarios y las herramientas ofimáticas como Microsoft Office._
 ## 
