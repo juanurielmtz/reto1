@@ -8,9 +8,9 @@
 ![image](https://user-images.githubusercontent.com/83740900/117602767-1e8f3d00-b117-11eb-94b2-c8caa254ac89.png)
 # Descripción de las ventajas de la informática en la nube
 # *¿Cuáles son algunas de las ventajas de la informática en la nube?*
-## Alta disponibilidad: en función del contrato de nivel de servicio (SLA) que elija, las aplicaciones basadas en la nube pueden proporcionar una experiencia de usuario continua sin tiempo de inactividad perceptible, aunque se produzcan errores.
+## -Alta disponibilidad: en función del contrato de nivel de servicio (SLA) que elija, las aplicaciones basadas en la nube pueden proporcionar una experiencia de usuario continua sin tiempo de inactividad perceptible, aunque se produzcan errores.
 
-## Escalabilidad: las aplicaciones en la nube se pueden escalar verticalmente y horizontalmente:
+## -Escalabilidad: las aplicaciones en la nube se pueden escalar verticalmente y horizontalmente:
 ###  - Escale verticalmente para aumentar la capacidad de proceso mediante la incorporación de RAM o CPU adicionales a una máquina virtual.
 ###  - El escalado horizontal aumenta la capacidad de proceso mediante la adición de instancias de recursos, como la incorporación de máquinas virtuales a la configuración.
 
@@ -18,7 +18,7 @@
 
 ## Agilidad: implemente y configure rápidamente los recursos basados en la nube a medida que cambian los requisitos de la aplicación.
 
-##Distribución geográfica: puede implementar aplicaciones y datos en centros de datos regionales de todo el mundo, lo que garantiza que sus clientes siempre tendrán el mejor rendimiento de su región.
+## Distribución geográfica: puede implementar aplicaciones y datos en centros de datos regionales de todo el mundo, lo que garantiza que sus clientes siempre tendrán el mejor rendimiento de su región.
 
 ## Recuperación ante desastres: al usar los servicios de copia de seguridad basados en la nube, la replicación de datos y la distribución geográfica, podrá implementar las aplicaciones con la seguridad de saber que los datos están protegidos en caso de que se produzca un desastre.
 
