@@ -31,8 +31,8 @@ _Permite a los usuarios conectarse a aplicaciones basadas en la nube a través d
 ##  ¿Qué son las nubes públicas, privadas e híbridas?
 _Hay tres modelos de implementación para la computación en la nube:_
 ###  Nube Pública:
-_Los servicios se ofrecen a través de la Internet pública y están disponibles para cualquier persona que desee adquirirlos. _
+_Los servicios se ofrecen a través de la Internet pública y están disponibles para cualquier persona que desee adquirirlos._
 ### Nube Privada: 
-_Una nube privada consta de recursos informáticos utilizados exclusivamente por usuarios de una empresa u organización. _
+_Una nube privada consta de recursos informáticos utilizados exclusivamente por usuarios de una empresa u organización._
 ### Nube híbrida
 _Una nube híbrida es un entorno informático que combina una nube pública y una nube privada al permitir que los datos y las aplicaciones se compartan entre ellos._
